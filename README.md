@@ -51,9 +51,12 @@ Then the program calculates modulus(N) = p*q and Euler Totient(ET) = (p-1)*(q-1)
 5. Press Y for encryption. Your message is encrypted and displayed.
 6. Press Y for decryption. Your message is decrypted and displayed.
 
+**References:**
+1. Kyriacos, N., 2021. Understanding the Mathematics Behind Cryptography. Retrieved April 30, 2022 from https://scholars.carroll.edu/bitstream/handle/20.500.12647/10473/Kyriacos_Final_2021.pdf
 
+2. Anon, 2021. Retrieved April 30, 2022 from GitHub - Mardokai/RSA-algorithm-. GitHub.
 
-
+3. Brian Kell, 2010. 21-110: The extended Euclidean algorithm. Retrieved April 30, 2022 from Math.cmu.edu.
 
 
 
